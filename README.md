@@ -1,1 +1,1 @@
-# Mall-Customers-Classes-Predictor
+# Mall Customers Classes Predictor
